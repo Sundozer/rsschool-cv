@@ -1,12 +1,3 @@
-<style>
-  p {
-    font-size: 14px;
-    line-height: 29px;
-  }
-  .contacts {
-    line-height: 7px;
-  }
-</style>
 <ol>
   <li>
     <h1>Aliaksandr Hramovich</h1>
