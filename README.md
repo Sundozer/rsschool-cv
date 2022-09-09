@@ -1,1 +1,1 @@
-https://sundozer.github.io/rsschool-cv/cv
+https://sundozer.github.io/rsschool-cv/
